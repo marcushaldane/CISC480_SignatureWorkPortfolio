@@ -5,12 +5,15 @@ This repository contains information, links, and files associated with various p
 The first link is to a separate GitHub repository which contains HTML, CSS and JavaScript files which were used to build a website for UST’s Web Development course (CISC 375). Right below that link is a link to a 5-minute YouTube video which walks through that project and demonstrates some of the basic concepts of web development which were used in the creation of that project. 
 
 https://github.com/marcushaldane/marcushaldane.github.io
+
 https://www.youtube.com/watch?v=SXPy4WOEVQ0
 
 The next three links are to a website called “shadertoy.com”, which is used for creating and sharing shaders through WebGL. There are three different shaders which I have created, mostly by following online tutorials as a starting point and then experimenting by trying out new features of GLSL. The links are specifically to a neon colored continuously morphing pattern shader, a repeating fractal shader, and a shader of a white orb revolving in 3 dimensions.
 
 https://www.shadertoy.com/view/clBcz1
+
 https://www.shadertoy.com/view/DtBcz1
+
 https://www.shadertoy.com/view/clScWh
 
 Following these projects are descriptions of coursework and the accompanying files. There are files for UST’s Computational Statistics and Data Analysis (STAT360). Of these, there are 4 HTML homework files which were produced by knitting an RMD file in RStudio based on Professor Berg’s Textbook and Homework Questions. Additionally, there is a PowerPoint file which was used for a presentation on a statistical analysis of crime in St. Paul. This PowerPoint file is the culmination of a semester long project which used covariance-based data analysis and structural equation modeling to detect patterns within environmental and geographical data related to crime reports in St. Paul. 
